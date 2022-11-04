@@ -1,0 +1,27 @@
+html
+{
+    background-color: hsl(212, 45%, 89%);
+}
+body
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 3vh 30vw;
+}
+.container
+{
+    padding: 5%;
+    align-items: center;
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 10px 10px hsl(220, 15%, 55%);
+}
+img
+{
+    justify-self: center;
+    max-width:100%;
+    max-height:70%;
+    border-radius: 5%;
+    box-shadow: 10px 10px hsl(220, 50%, 50%);
+}
